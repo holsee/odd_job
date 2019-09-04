@@ -7,6 +7,7 @@ Using Guardian 2.0:
 * Ecto User Model
 * JSON API with JWT Authentication
 * JSON API with JWT Authorisation
+* Ueberauth with local Identity Provider
 
 Design Concepts:
 
